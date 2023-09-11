@@ -490,6 +490,10 @@ footer .box .purchase .right .text p {
   footer .box .purchase .right .text p {
     font-size: 7px;
   }
+  footer .box .purchase .left .text h5,
+  footer .box .purchase .right .text h5 {
+    font-size:7px;
+  }
 }
 .box .social {
   margin-bottom: 15px;
